@@ -8,8 +8,8 @@ The Maven brings us good folder structure and centralize our dependencies in pom
 It is also allowed us to execute a group of test cases with a Maven command.
 Our framework implemented JUnit for annotation and reports, Selenium as automation tool and bonigarcia WebDriverManager. 
 
-There is poddibility to run @Smoke and @Regression suites with using Maven command (mvn test -DCucumber.options="--tags
-@Regression" or  mvn test -DCucumber.options="--tags @Smoke"). 
+There is poddibility to run @Smoke and @Regression suites with using Maven command (mvn test -"DCucumber.options=--tags
+@Regression" or  mvn test -"DCucumber.options=--tags @Smoke"). 
 After one of this command runs, the execution of test cases starts from pom.xml file and then move to the Runner class. 
 Runner class will be updated with given configuration.
 Depends of the Tag it gets, it will go to feature files and execute all the scenarios which have the same Tag annotation.
