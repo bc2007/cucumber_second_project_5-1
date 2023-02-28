@@ -27,3 +27,6 @@ In the Utils package:
     DropdownHandler class: implements the method for felling out order information
     Waiter class: implements the method for handling synchronization issues 
 
+<img width="1388" alt="Screen Shot 2023-02-27 at 5 50 37 PM" src="https://user-images.githubusercontent.com/116671996/221723551-d003c356-859d-421b-876d-09b8fe0a1665.png">
+<img width="1422" alt="Screen Shot 2023-02-27 at 6 01 39 PM" src="https://user-images.githubusercontent.com/116671996/221723716-2a1c1b61-a7b8-42ab-9a91-89f8b9b20bd7.png">
+<img width="1398" alt="Screen Shot 2023-02-27 at 6 02 05 PM" src="https://user-images.githubusercontent.com/116671996/221723748-023fb66c-bab1-4268-9908-fc1fa89aa6db.png">
